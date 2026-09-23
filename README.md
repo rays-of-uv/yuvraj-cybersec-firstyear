@@ -5,7 +5,6 @@ This repository contains my submissions for the **CodeKrafters SRM 2026 Cybersec
 ## About Me
 
 - **Name:** Yuvraj A Chaurasiya
-- **Registration Number:** RA2611030020277
 - **Year / Branch:** 1st Year, CSE W/S Cybersecurity
 - **TryHackMe Username:** yuvi14
 - **TryHackMe Profile:** https://tryhackme.com/p/yuvi14
